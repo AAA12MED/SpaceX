@@ -1,0 +1,21 @@
+Hello Adventurer!
+
+Welcome to my game.
+
+Your job is collect number of space junks and go back home before your fuel  finish.
+Be careful! few big asteroid are flying too. If they touch you , game over.
+
+--- Instructions How to play ---
+
+- Use W,A,S,D for movements :
+  W = up,
+  A = left,
+  S = down,
+  D = right
+- Every move consumes fuel depends on chosen difficulty.
+- If fuel is zero, you lose
+- Pick up junk to get more fuel depends on difficulty
+- Asteroid move same time with you, one cell every your move
+- Don’t go outside the space area (18x18 grid)
+- When you collect X (depends on difficulty) junk, go to Home Base to win
+

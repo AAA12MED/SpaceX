@@ -1,0 +1,7 @@
+# ninja log v6
+3	62	7679271694430442	CMakeFiles/SpaceX.dir/main.c.obj	cb3940df7bc62401
+128	476	7680062094727962	CMakeFiles/SpaceX.dir/game.c.obj	a00d189ddc1b7df8
+477	760	7680062098221907	SpaceX.exe	a56a33d0f59fe027
+39	235	7682649412572151	CMakeFiles/SpaceX.dir/main.c.obj	c85021c2f568795f
+48	272	7682649412653574	CMakeFiles/SpaceX.dir/game.c.obj	60f53075020cf2c5
+273	481	7682649414902725	SpaceX.exe	a56a33d0f59fe027

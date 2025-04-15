@@ -1,0 +1,3 @@
+C:/Users/ahmad/CLionProjects/SpaceX A/cmake-build-debug/CMakeFiles/SpaceX.dir
+C:/Users/ahmad/CLionProjects/SpaceX A/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmad/CLionProjects/SpaceX A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
